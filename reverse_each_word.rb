@@ -6,5 +6,4 @@ def reverse_each_word(sentence1)
     #binding.pry
   end
     return new_array.join(" ")
-   
 end
